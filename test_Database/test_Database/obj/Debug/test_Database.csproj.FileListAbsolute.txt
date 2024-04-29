@@ -1,0 +1,13 @@
+D:\vs-projects\test_Database\test_Database\bin\Debug\test_Database.exe.config
+D:\vs-projects\test_Database\test_Database\bin\Debug\test_Database.exe
+D:\vs-projects\test_Database\test_Database\bin\Debug\test_Database.pdb
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.csproj.AssemblyReference.cache
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.LoginForm.resources
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.RegisterForm.resources
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.Properties.Resources.resources
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.csproj.GenerateResource.cache
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.csproj.CoreCompileInputs.cache
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.exe
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.pdb
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.MainForm.resources
+D:\vs-projects\test_Database\test_Database\obj\Debug\test_Database.AddRecordForm.resources

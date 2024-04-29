@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs-projects\\ExampleSqlApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|d:\\vs-projects\\examplesqlapp\\examplesqlapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|D:\\vs-projects\\ExampleSqlApp\\examplesqlapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|d:\\vs-projects\\examplesqlapp\\examplesqlapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|d:\\vs-projects\\examplesqlapp\\examplesqlapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|D:\\vs-projects\\ExampleSqlApp\\examplesqlapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|D:\\vs-projects\\ExampleSqlApp\\examplesqlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|d:\\vs-projects\\examplesqlapp\\examplesqlapp\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|D:\\vs-projects\\ExampleSqlApp\\examplesqlapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{106A6CD0-6728-4480-AA1B-3C5D2C546D39}|ExampleSqlApp\\ExampleSqlApp.csproj|solutionrelative:examplesqlapp\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\WelcomeForm.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ExampleSqlApp\\WelcomeForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:32:03.657Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\LoginForm.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ExampleSqlApp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:24:31.692Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\LoginForm.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\LoginForm.cs",
+              "RelativeToolTip": "ExampleSqlApp\\LoginForm.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:47:44.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\RegisterForm.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.cs",
+              "RelativeToolTip": "ExampleSqlApp\\RegisterForm.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:29:49.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\Program.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\Program.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\Program.cs",
+              "RelativeToolTip": "ExampleSqlApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:25:53.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\RegisterForm.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ExampleSqlApp\\RegisterForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:58:25.784Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\DB.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\DB.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\DB.cs",
+              "RelativeToolTip": "ExampleSqlApp\\DB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T12:41:15.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "ExampleSqlApp\\RegisterForm.Designer.cs",
+              "ToolTip": "D:\\vs-projects\\ExampleSqlApp\\ExampleSqlApp\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "ExampleSqlApp\\RegisterForm.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:16:43.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
